@@ -9,7 +9,7 @@ import InputField from "../common/components/InputField/InputField";
 import TextAreaField from "../common/components/TextAreaField/TextAreaField";
 import SubmitButton from "../common/components/SubmitButton/SubmitButton";
 import Loader from "../common/components/Loader/Loader";
-import cv from "../common/components/Resume/Ankitmod.pdf"
+import cv from "../common/components/Resume/AnkitMod.pdf"
 
 // Icons
 import { FaReact, FaMobileAlt } from "react-icons/fa";
