@@ -8,7 +8,7 @@ import {
 } from "react-icons/ai";
 
 import DownloadButton from "../common/components/DownloadButton/DownloadButton";
-import cv from "../common/components/Resume/AnkitMod.pdf";
+import cv from "../common/components/Resume/Ankit.pdf";
 
 
 import style from "./App.module.css";
