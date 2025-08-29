@@ -98,8 +98,14 @@ export const projects = [
       "Built a real-time chat application for mobile platforms using React Native and MySQL. Features include user registration, login, and individual user-to-user messaging. Implemented polling mechanisms to keep conversations updated in real time. Styled using NativeWind for a clean and responsive UI, and deployed via Expo Go for seamless cross-platform compatibility.",
     image: GlobalShare,
   },
-
-
+    {
+    name: "College ERP System",
+    link: "https://erp.jitmkuchaman.com/", // Live deployment link
+    github: "https://github.com/Ankitmod4/ERP-System-college", // GitHub link
+    description:
+      "Developed a comprehensive College ERP System where students can view their fees details, assignments, and other academic information in one place. Designed to simplify college administration and student interaction with a user-friendly interface. Built with modern web technologies ensuring scalability, security, and smooth performance.",
+    image: GlobalShare,
+  },
   // {
   //   name: "Mini Project: Currency Converter",
   //   link: "https://currency-generator-pi.vercel.app/",
